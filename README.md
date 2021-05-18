@@ -6,6 +6,7 @@ Deep Learning-Based Crack Damage Detection Using Convolutional Neural Networks b
 
 Libraries used: Pytorch, open CV, Tensorboard (optionally for viewing training progress, dataset and Network architecture)
 Architecture: 
+
 ![Screenshot from 2021-05-17 19-49-13](https://user-images.githubusercontent.com/84150307/118573871-f9b74d00-b748-11eb-8290-788c47c46d25.png)
 
 Results:
